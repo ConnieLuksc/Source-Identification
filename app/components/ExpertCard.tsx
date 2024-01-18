@@ -1,4 +1,12 @@
 import React from 'react';
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
 
 type ExpertCardProps = {
   name: string;
@@ -11,12 +19,18 @@ export default function ExpertCard({ name, title, country, categories }: ExpertC
   return (
     <div className="expert-card">
       <div className="expert-details">
-        <p>{name}</p>
-        <p>{title}</p>
-        <p>{country}</p>
-        {categories.map((category) => (
-          <span key={category}>{category}</span>
-        ))}
+        <Card>
+          <CardHeader>
+            <CardTitle>{name}</CardTitle>
+            <CardDescription>{title} - {country}</CardDescription>
+          </CardHeader>
+          <CardContent>
+            <p>Expertise: {categories.join(", ")}</p>
+          </CardContent>
+          <CardFooter>
+            <p>More Details</p>
+          </CardFooter>
+        </Card>
       </div>
     </div>
   );
