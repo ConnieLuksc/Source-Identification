@@ -1,6 +1,6 @@
 export default function SearchBar() {
   return (
-    <div className="flex flex-col justify-center items-center h-screen">
+    <div className="flex flex-col justify-center items-center h-96">
       <h1 className="flex text-4xl font-bold text-gray-800 mb-4">Echo Expert</h1>
       <h3 className="flex text-1xl font-bold text-gray-800 mb-4"> Connecting Journalists to the World of Expertise </h3>
 
