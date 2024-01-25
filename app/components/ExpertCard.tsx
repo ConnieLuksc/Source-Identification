@@ -1,12 +1,5 @@
-import React from 'react';
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import React from "react";
+import Image from "next/image";
 
 type ExpertCardProps = {
   name: string;
@@ -14,18 +7,27 @@ type ExpertCardProps = {
   country: string;
   profession: string;
   tags: string[];
-  image: string; 
-
+  image: string;
 };
 
-
-
-export default function ExpertCard({ name, title, profession, country, tags, image }: ExpertCardProps) {
+export default function ExpertCard({
+  name,
+  title,
+  profession,
+  country,
+  tags,
+  image,
+}: ExpertCardProps) {
   return (
     <div className="bg-white p-6 rounded-lg shadow-lg">
       <div className="flex items-center space-x-4">
-        {/* Use the image prop for the src attribute */}
-        <img src={image} alt={`Profile image of ${name}`} className="rounded-full" width={100} height={100} />
+        <Image
+          src={image}
+          alt={`Profile image of ${name}`}
+          className="rounded-full"
+          width={100}
+          height={100}
+        />
         <div>
           <div className="text-xl text-gray-700 font-semibold">{name}</div>
           <p className="text-gray-600">{title}</p>
@@ -40,12 +42,15 @@ export default function ExpertCard({ name, title, profession, country, tags, ima
         <span className="text-gray-700">{country}</span>
       </div>
       <div className="flex flex-wrap gap-2">
-          {tags.map((tag, index) => (
-            <span key={index} className="bg-gray-200 text-gray-700 rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-2">
-              {tag}
-            </span>
-          ))}
-        </div>
+        {tags.map((tag, index) => (
+          <span
+            key={index}
+            className="bg-gray-200 text-gray-700 rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-2"
+          >
+            {tag}
+          </span>
+        ))}
+      </div>
     </div>
   );
 }
