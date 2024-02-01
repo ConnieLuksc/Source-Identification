@@ -1,0 +1,562 @@
+[
+    {
+        "id": "b1870044-5e5a-4128-88a8-5eba607723a4",
+        "name": "Ibrahim N. Abusharif",
+        "email": "a-abusharif@northwestern.edu",
+        "school": "Northwestern University in Qatar",
+        "title": "Associate Professor",
+        "fields": [
+            "Journalism",
+            "Religion"
+        ],
+        "focus_areas": [
+            "Arabic Culture and Politics",
+            "Digital Media",
+            "Journalism Industry",
+            "Middle Eastern Culture and Politics",
+            "Political Reporting",
+            "Print Media"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Ibrahim-Abusharif__FocusFillWzk2LDExNywieCIsMF0.jpg"
+    },
+    {
+        "id": "3b23a32d-ec0a-404c-9933-f054ed6a014e",
+        "name": "Katherine R Amato",
+        "email": "katherine.amato@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Associate Professor of Anthropology",
+        "fields": [
+            "Anthropology",
+            "Environmental Studies",
+            "Gastroenterology",
+            "Human Biology",
+            "Molecular Biosciences"
+        ],
+        "focus_areas": [
+            "Ecology",
+            "Health Disparities",
+            "Human Evolution",
+            "Infant Health",
+            "Life Sciences",
+            "Nutritional and Metabolic Diseases",
+            "Physiology"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Katherine-Amato-anthropology__FocusFillWzk2LDExNywieSIsMl0.jpg"
+    },
+    {
+        "id": "d8ff0f7b-b8db-45c5-8756-d5586f9e25d7",
+        "name": "Richard Ashley",
+        "email": "r-ashley@northwestern.edu",
+        "school": "Bienen School of Music",
+        "title": "Associate Professor of Music Theory and Cognition",
+        "fields": [
+            "Music"
+        ],
+        "focus_areas": [
+            "Music Theory and Composition",
+            "Performing Arts"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/ashley-richard-music__FocusFillWzk2LDExNywieSIsMV0.jpg"
+    },
+    {
+        "id": "b7b5d2cb-1fdd-4291-a305-142d9347a2f2",
+        "name": "Kathleen Belew",
+        "email": "belew@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Associate Professor of History",
+        "fields": [
+            "History"
+        ],
+        "focus_areas": [
+            "American Culture and Politics",
+            "Hate Crimes",
+            "National Security",
+            "U.S. History",
+            "Violent Crime"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Belew-photo-by-Brian-McConkey-__FocusFillWzk2LDExNywieSIsMF0.jpeg"
+    },
+    {
+        "id": "fbeb1ac0-3f61-46b9-987d-019d347b120e",
+        "name": "Dr. Borna Bonakdarpour",
+        "email": "bbk@northwestern.edu",
+        "school": "Northwestern University Feinberg School of Medicine",
+        "title": "Associate Professor of Neurology",
+        "fields": [
+            "Aging",
+            "Communications",
+            "Music",
+            "Neurology"
+        ],
+        "focus_areas": [
+            "Behavior Change",
+            "Communication Skills",
+            "Improvisation",
+            "Medical Imaging",
+            "Mental Health",
+            "Music Theory and Composition",
+            "Neurobiology",
+            "Neurodegenerative Disease",
+            "Neuroscience",
+            "Telemedicine"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Borna-Bonakdarpour__FocusFillWzk2LDExNywieSIsMTRd.jpg"
+    },
+    {
+        "id": "d61f6074-d13d-4509-b121-b609c904012a",
+        "name": "Sherwin K. Bryant",
+        "email": "s-bryant@northwestern.edu",
+        "school": "Buffett Institute for Global Affairs,\n                        \n                        Weinberg College of Arts and Sciences",
+        "title": "Associate Professor of Black Studies and History",
+        "fields": [
+            "History"
+        ],
+        "focus_areas": [
+            "African American Studies",
+            "Latinx Culture and Politics",
+            "Legal and judicial ethics",
+            "Slavery and Abolitionism"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Sherwin-K__FocusFillWzk2LDExNywieSIsM10.-Bryant.png"
+    },
+    {
+        "id": "2a3a158f-d45b-4007-b94b-5d36d0175656",
+        "name": "Helen Callus",
+        "email": "hcallus@northwestern.edu",
+        "school": "Bienen School of Music",
+        "title": "Professor, Viola",
+        "fields": [
+            "Music"
+        ],
+        "focus_areas": [
+            "Classical Music",
+            "Performance Anxiety",
+            "Stringed Instruments"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Helen-Callus__FocusFillWzk2LDExNywieSIsNF0.jpg"
+    },
+    {
+        "id": "fd77cf20-a171-4718-8926-7268dcbf81d3",
+        "name": "David Catlin",
+        "email": "d-catlin@northwestern.edu",
+        "school": "School of Communication",
+        "title": "Associate Professor of Instruction, Department of Theatre",
+        "fields": [
+            "Theatre"
+        ],
+        "focus_areas": [
+            "Acting",
+            "Directing"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/catlin-david-theater__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "7d773709-60d5-4282-8a4b-a3186e95ad01",
+        "name": "Aymar Jean \u201cA.J.\u201d Christian",
+        "email": "aymar.jean@northwestern.edu",
+        "school": "School of Communication",
+        "title": "Associate professor of communication studies, radio/television/film",
+        "fields": [
+            "Film"
+        ],
+        "focus_areas": [
+            "Digital Media",
+            "Diversity, Equity and Inclusion",
+            "Entertainment Industry"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/christian-aj-media__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "7811ee5e-d7a5-49d5-b076-97dfb11c2e00",
+        "name": "Rifka Cook",
+        "email": "rifka36@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Associate Professor of Instruction",
+        "fields": [
+            "Languages and Cultural Studies"
+        ],
+        "focus_areas": [
+            "Jewish Studies",
+            "Spanish Language"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Cook-Rifka__FocusFillWzk2LDExNywieSIsNF0.JPG"
+    },
+    {
+        "id": "834884c7-55c3-4f51-9001-77eba996906f",
+        "name": "Lisa Graziose Corrin",
+        "email": "lisa.corrin@northwestern.edu",
+        "school": "Block Museum of Art",
+        "title": "Ellen Philips Katz Director",
+        "fields": [
+            "Visual Arts"
+        ],
+        "focus_areas": [
+            "Art History",
+            "Cultural Heritage",
+            "Curation and Museum Studies"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Lisa-Corrin-Block-Museum__FocusFillWzk2LDExNywieSIsNF0.jpg"
+    },
+    {
+        "id": "42d2cfca-0505-4748-9033-b46ee9209e77",
+        "name": "Tracy C. Davis",
+        "email": "tcdavis@northwestern.edu",
+        "school": "School of Communication,\n                        \n                        Weinberg College of Arts and Sciences",
+        "title": "Ethel M. Barber Professor of Performing Arts",
+        "fields": [
+            "Literature",
+            "Theatre"
+        ],
+        "focus_areas": [
+            "Curation and Museum Studies",
+            "Diversity, Equity and Inclusion",
+            "Gender Diversity and Equality",
+            "Performing Arts",
+            "Research Methods",
+            "Social Activism"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/davis-tracy-theatre__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "57acd18e-35ab-4789-be07-0f5b9da58463",
+        "name": "Jillana B. Enteen",
+        "email": "j-enteen@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Professor of Instruction",
+        "fields": [
+            "Communications",
+            "Global Health",
+            "Languages and Cultural Studies",
+            "Literature",
+            "Political Science and Foreign Affairs"
+        ],
+        "focus_areas": [
+            "Community Development",
+            "Gender Diversity and Equality",
+            "Gender Identity",
+            "Globalization",
+            "Human Rights",
+            "Inequality",
+            "Intersectionality",
+            "LGBTQ Health",
+            "Social Media"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Jillana-B__FocusFillWzk2LDExNywieSIsMF0.-Enteen.png"
+    },
+    {
+        "id": "1aa70296-f74f-4656-a398-b5989d5a9460",
+        "name": "James Giles",
+        "email": "jgiles@northwestern.edu",
+        "school": "Bienen School of Music",
+        "title": "Professor, Piano",
+        "fields": [
+            "Music"
+        ],
+        "focus_areas": [
+            "Classical Music",
+            "Performing Arts",
+            "Piano"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/giles-james-music__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "87dce9a9-30f5-4c67-90da-8a0f8053ce16",
+        "name": "Henry Godinez",
+        "email": "hgodinez@northwestern.edu",
+        "school": "School of Communication",
+        "title": "Professor of Theatre",
+        "fields": [
+            "Theatre"
+        ],
+        "focus_areas": [
+            "Acting",
+            "Directing",
+            "Latinx Culture and Politics"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/godinez-henry-theater__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "96ebca0c-50ca-48e3-931b-2ba74c76a2d2",
+        "name": "Kyle Henry",
+        "email": "kyle-henry@northwestern.edu",
+        "school": "School of Communication",
+        "title": "Associate Professor of Film Production",
+        "fields": [
+            "Documentary",
+            "Film"
+        ],
+        "focus_areas": [
+            "Acting",
+            "Digital Media",
+            "Directing"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/kyle-henry-film__FocusFillWzk2LDExNywieCIsM10.jpg"
+    },
+    {
+        "id": "9e827ae1-920a-4da7-936d-797408b6ff1a",
+        "name": "Hans J\u00f8rgen Jensen",
+        "email": "h-jensen@northwestern.edu",
+        "school": "Bienen School of Music",
+        "title": "Professor of Cello",
+        "fields": [
+            "Music"
+        ],
+        "focus_areas": [
+            "Conducting",
+            "Music Education",
+            "Performing Arts",
+            "Stringed Instruments"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/jensen-hans-jorgen-music__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "ab0f75c3-2c0f-4f91-a4a6-90fd62f0cff9",
+        "name": "Dr. Debra B. Kerr",
+        "email": "debrakerr@northwestern.edu",
+        "school": "Northwestern University School of Professional Studies",
+        "title": "Adjunct Lecturer",
+        "fields": [
+            "Management and Organizations",
+            "Visual Arts"
+        ],
+        "focus_areas": [
+            "Curation and Museum Studies",
+            "Visual Arts"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Debra-Kerr__FocusFillWzk2LDExNywieCIsMF0.jpg"
+    },
+    {
+        "id": "85f44b37-eca1-4b7a-857d-fc5452fa9872",
+        "name": "Doug Kiel",
+        "email": "doug.kiel@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Assistant Professor, Department of History and Alice Kaplan Institute for the Humanities",
+        "fields": [
+            "History",
+            "Legal History"
+        ],
+        "focus_areas": [
+            "American Culture and Politics",
+            "Colonialism",
+            "Curation and Museum Studies",
+            "Diversity, Equity and Inclusion",
+            "Indigenous Culture",
+            "Race and Ethnicity",
+            "Social Activism"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/doug-kiel-168x210__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "b3484751-035d-45ff-84b6-9ca88edbeb0f",
+        "name": "Elena Lanza",
+        "email": "e-lanza@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Associate Professor of Instruction",
+        "fields": [
+            "Languages and Cultural Studies"
+        ],
+        "focus_areas": [
+            "Language Learning and Processing",
+            "Spanish Language",
+            "Teacher Development"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Elena-Lanza-spanish-language__FocusFillWzk2LDExNywieSIsMl0.jpg"
+    },
+    {
+        "id": "e02e727b-22de-4e25-9b13-33cdf24382a9",
+        "name": "Jon H. Marshall",
+        "email": "j-marshall@northwestern.edu",
+        "school": "Medill School of Journalism, Media, Integrated Marketing Communications",
+        "title": "Clinical Associate Professor",
+        "fields": [
+            "History",
+            "Journalism"
+        ],
+        "focus_areas": [
+            "American Culture and Politics",
+            "Investigative Reporting",
+            "Journalism Industry"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/download__FocusFillWzk2LDExNywieSIsMTRd.jpg"
+    },
+    {
+        "id": "1bc7e810-3e40-4edf-b29f-395e5da8d9cf",
+        "name": "Kate Masur",
+        "email": "kmasur@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Professor of History",
+        "fields": [
+            "History"
+        ],
+        "focus_areas": [
+            "African American Studies",
+            "Civil Rights",
+            "Race and Ethnicity",
+            "U.S. History",
+            "U.S. Political Elections"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/kate-masur-civil-war-history__FocusFillWzk2LDExNywieSIsMV0.jpg"
+    },
+    {
+        "id": "6a79405a-e7ee-4681-b50f-b1094018cc3f",
+        "name": "Joel Mokyr",
+        "email": "j-mokyr@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Robert H. Strotz Professor of Arts and Sciences and Professor of Economics and History",
+        "fields": [
+            "Economics",
+            "History"
+        ],
+        "focus_areas": [
+            "Industrial Organizations and Economics",
+            "Innovation"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/mokyr-joel-economics-history__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "2e99c3cb-ad2b-4747-82cd-27d4a7977fd0",
+        "name": "Elie Rekhess",
+        "email": "e-rekhess@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Crown Visiting Professor in Israel Studies",
+        "fields": [
+            "History",
+            "Political Science and Foreign Affairs"
+        ],
+        "focus_areas": [
+            "Arabic Culture and Politics",
+            "Israeli-Palestinian Conflict",
+            "Jewish Studies",
+            "Middle Eastern Culture and Politics"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Elie-Rekhess__FocusFillWzk2LDExNywieSIsMTBd.jpg"
+    },
+    {
+        "id": "6b91601a-5a7b-4732-8292-85a13da53d90",
+        "name": "Regina Schwartz",
+        "email": "regina-s@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Professor of English",
+        "fields": [
+            "Literature",
+            "Religion"
+        ],
+        "focus_areas": [
+            "Social Justice"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/schwartz-media__FocusFillWzk2LDExNywieSIsNF0.jpg"
+    },
+    {
+        "id": "52d56fdd-ecea-4daf-bbb8-c64a1ddb5104",
+        "name": "Anna D. Shapiro",
+        "email": "anna-shapiro@northwestern.edu",
+        "school": "School of Communication",
+        "title": "Professor, Marjorie Hoffman Hagan, Class of 1934, Chair of Theatre",
+        "fields": [
+            "Theatre"
+        ],
+        "focus_areas": [
+            "Directing",
+            "Musical Theater"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/shapiro-anna-theater__FocusFillWzk2LDExNywieSIsMF0.jpg"
+    },
+    {
+        "id": "bd4eeaf7-706c-4e29-bba7-e3d4901a1978",
+        "name": "David Shyovitz",
+        "email": "davidshy@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Associate Professor of History",
+        "fields": [
+            "History",
+            "Religion"
+        ],
+        "focus_areas": [
+            "Jewish Studies"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Shyovitz-David-History__FocusFillWzk2LDExNywieSIsMV0.jpg"
+    },
+    {
+        "id": "5b5cd7ca-5721-407a-89e5-696d4114aa68",
+        "name": "Elizabeth Son",
+        "email": "elizabeth.son@northwestern.edu",
+        "school": "School of Communication",
+        "title": "Associate Professor of Theatre",
+        "fields": [
+            "Theatre"
+        ],
+        "focus_areas": [
+            "Gender Diversity and Equality",
+            "Performing Arts",
+            "Social Activism"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/son-elizabeth-theatre__FocusFillWzk2LDExNywieSIsMV0.jpg"
+    },
+    {
+        "id": "1686f0a8-1f57-4128-8416-e432d8e9acd2",
+        "name": "Hans Thomalla",
+        "email": "h-thomalla@northwestern.edu",
+        "school": "Bienen School of Music",
+        "title": "Professor of Composition and Music Technology",
+        "fields": [
+            "Music"
+        ],
+        "focus_areas": [
+            "Chamber Music",
+            "Music Theory and Composition",
+            "Opera",
+            "Orchestra"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/hans-headshot__FocusFillWzk2LDExNywieSIsMF0.png"
+    },
+    {
+        "id": "427b553a-e311-44a1-aa46-060685c3150f",
+        "name": "Erica Weitzman",
+        "email": "erica.weitzman@northwestern.edu",
+        "school": "Weinberg College of Arts and Sciences",
+        "title": "Associate Professor of German",
+        "fields": [
+            "Languages and Cultural Studies",
+            "Literature"
+        ],
+        "focus_areas": [
+            "Comedy",
+            "European Culture and Politics",
+            "Language Learning and Processing"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/ERICA-WEITZMAN__FocusFillWzk2LDExNywieSIsMl0.png"
+    },
+    {
+        "id": "83439f69-57e4-45bd-856f-fe114f43da18",
+        "name": "Zachary Valentine Wright",
+        "email": "z-wright@northwestern.edu",
+        "school": "Northwestern University in Qatar",
+        "title": "Professor of Liberal Arts (History and Religious Studies)",
+        "fields": [
+            "History",
+            "Religion"
+        ],
+        "focus_areas": [
+            "African Culture and Politics",
+            "Arabic Culture and Politics",
+            "Middle Eastern Culture and Politics"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/Zachary-Valentine-Wright__FocusFillWzk2LDExNywieSIsOV0.png"
+    },
+    {
+        "id": "6e67eaff-62a3-4f6e-b396-c84d7d799870",
+        "name": "Mary Zimmerman",
+        "email": "Maz250@northwestern.edu",
+        "school": "School of Communication",
+        "title": "Professor, Jaharis Family Foundation Chair in Performance",
+        "fields": [
+            "Theatre"
+        ],
+        "focus_areas": [
+            "Directing",
+            "Opera",
+            "Performing Arts"
+        ],
+        "image_src": "https://news.northwestern.edu/assets/Experts/zimmerman-mary-theater__FocusFillWzk2LDExNywieSIsMV0.jpg"
+    }
+]
