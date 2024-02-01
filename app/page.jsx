@@ -13,8 +13,8 @@ export default function Home() {
   const filteredExperts = experts.filter((expert) => {
     return (
       expert.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      expert.profession.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      expert.tags.some((tag) =>
+      expert.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      expert.fields.some((tag) =>
         tag.toLowerCase().includes(searchQuery.toLowerCase())
       )
     );
