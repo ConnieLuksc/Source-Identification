@@ -66,16 +66,17 @@ def main():
     base_url = 'https://news.northwestern.edu/for-journalists/faculty-experts/browse'
     all_experts = []
 
-    # Assuming there are 43 pages, adjust the range as necessary
-    for page in range(1, 44):
-        page_url = f"{base_url}?page={page}"
+    # Looping through 43 pages, incrementing the 'start' parameter by 10 each time
+    for page in range(43):
+        start_value = page * 10
+        page_url = f"{base_url}?start={start_value}"
         experts = fetch_experts(page_url)
         
         if experts:
             all_experts.extend(experts)
 
     # Save all the data to a JSON file
-    with open('../app/data/experts_data.json', 'w') as jsonfile:
+    with open('../app/data/experts_all.json', 'w') as jsonfile:
         json.dump(all_experts, jsonfile, indent=4)
 
 if __name__ == "__main__":
