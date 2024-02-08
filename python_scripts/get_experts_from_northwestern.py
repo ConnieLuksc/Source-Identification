@@ -62,16 +62,21 @@ def fetch_experts(url):
         print("Failed to retrieve the webpage")
         return None
 
-# URL of the Northwestern University faculty experts page
-url = 'https://news.northwestern.edu/for-journalists/faculty-experts/category/arts-and-humanities'
+def main():
+    base_url = 'https://news.northwestern.edu/for-journalists/faculty-experts/browse'
+    all_experts = []
 
-# Fetch the experts' data
-experts_list = fetch_experts(url)
+    # Assuming there are 43 pages, adjust the range as necessary
+    for page in range(1, 44):
+        page_url = f"{base_url}?page={page}"
+        experts = fetch_experts(page_url)
+        
+        if experts:
+            all_experts.extend(experts)
 
-# # Print the data or save it to a file
-# for expert in experts_list:
-#     print(expert)
-#     # Here you can add code to save the data to a CSV file or a database
-# Save the data to a JSON file
-with open('../app/data/experts_data.json', 'w') as jsonfile:
-    json.dump(experts_list, jsonfile, indent=4)
+    # Save all the data to a JSON file
+    with open('../app/data/experts_data.json', 'w') as jsonfile:
+        json.dump(all_experts, jsonfile, indent=4)
+
+if __name__ == "__main__":
+    main()
