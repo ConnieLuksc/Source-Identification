@@ -29,7 +29,7 @@ export default function Home() {
       <Header />
       <SearchBar setSearchQuery={setSearchQuery} />
       <div className="max-w-6xl mx-auto px-4 py-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div className="grid grid-cols-2 md:grid-cols-3">
           {filteredExperts.map((expert, index) => (
             <ExpertCard key={index} {...expert} />
           ))}
